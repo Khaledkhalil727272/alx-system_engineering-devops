@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo vincent hello
+chgrep staff hello
