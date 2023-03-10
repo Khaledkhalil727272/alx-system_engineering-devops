@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown vincent
-chgrep staff
+chown vincent:staff
